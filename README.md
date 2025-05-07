@@ -1,4 +1,4 @@
-# Project3 - GWA Calculator
+# Project 3 - GWA Calculator
 
 ## Description
 
