@@ -20,7 +20,7 @@ This is a simple **Java console program** for beginners that calculates your **G
 
 ## How To Run
 1. Open the project in NetBeans.
-2. Open 'Project1.java' inside the 'project1' package.
+2. Open 'Project3.java' inside the 'project3' package.
 3. Run the program (Shift + F6 or click Run).
 
 ### Author
