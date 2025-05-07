@@ -18,10 +18,10 @@ This is a simple **Java console program** for beginners that calculates your **G
 - Calculates and displays the average grade (GWA)
 - Outputs the result up to **two decimal places**
 
-## How to Run
+# How To Run
+1. Open the project in NetBeans.
+2. Open 'Project1.java' inside the 'project1' package.
+3. Run the program (Shift + F6 or click Run).
 
-1. Download or copy the `Project3.java` file.
-2. Open the file using your preferred Java editor or IDE (like Notepad, VS Code, or IntelliJ).
-3. Compile the program by typing:
-   ```bash
-   javac Project3.java
+# Author
+Emman Cabz
