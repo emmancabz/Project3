@@ -23,7 +23,7 @@ This is a simple **Java console program** for beginners that calculates your **G
 2. Open `Project3.java` inside the `project3` package.
 3. Run the program (Shift + F6 or click Run).
 
-## Example Output
+## Sample Output
 
 ```bash
 Your grades in The Life and Works of Jose Rizal: 1.75
